@@ -3,7 +3,7 @@ let flag = False
 
 for (let i = 2; i < number; i++) {
     if (number % i == 0) {
-        flag = false;
+        flag = True;
         break;
     }
 }
