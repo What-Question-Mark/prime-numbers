@@ -8,6 +8,6 @@ if number > 1:
             break
 
 if flag:
-    print(f"{numbrr} is not a prime number")
+    print(f"{number} is not a prime number")
 else:
     print(f"{number} is a prime number")
